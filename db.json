@@ -1,4 +1,11 @@
 {
-  "hola": "Saludo",
-  "Heavy": "Nose",
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
