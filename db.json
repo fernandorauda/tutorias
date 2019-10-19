@@ -1,11 +1,48 @@
 {
-  "posts": [
+  "series": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Elite",
+      "imagen": "http://es.web.img2.acsta.net/pictures/18/09/11/09/24/3649571.jpg",
+      "produccion": "Netflix"
+    },
+    {
+      "id": 2,
+      "title": "The Flash",
+      "imagen": "http://es.web.img2.acsta.net/pictures/17/09/29/21/15/4233147.jpg",
+      "produccion": "DC"
+    },
+    {
+      "id": 3,
+      "title": "Game of Thrones",
+      "imagen": "https://images-na.ssl-images-amazon.com/images/I/A1MExOEakfL.jpg",
+      "produccion": "HBO"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "peliculas": [
+    {
+      "id": 1,
+      "title": "Joker",
+      "imagen": "https://i.pinimg.com/originals/dd/58/62/dd586203382ee10102c591bff2a551b8.jpg",
+      "produccion": "DC"
+    },
+    {
+      "id": 2,
+      "title": "Avengers: EndGame",
+      "imagen": "https://img01.mgo-images.com/image/thumbnail/v2/content/MMVAF76018A477C2826A4EC8747C40B7BE27.jpeg",
+      "produccion": "Marvel"
+    },
+    {
+      "id": 3,
+      "title": "It: Chapter 2",
+      "imagen": "https://cdn2.excelsior.com.mx/media//inside-the-note/pictures/2019/08/03/it_chapter_2_incluye_una_escena_inedita_escrita_por_stephen_king_2.jpeg",
+      "produccion": "Warner"
+    },
+    {
+      "id": 1,
+      "title": "Rey Leon",
+      "imagen": "https://www.trasnochocultural.com/wp-content/uploads/2019/07/iTylvcrrjPe72qjrgF7tSgC7NzY-2.jpg",
+      "produccion": "Disney"
+    }
+  ]
 }
